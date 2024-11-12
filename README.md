@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 ## 👋
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+![Metrics](https://metrics.lecoq.io/Amethyst-yu?template=classic&sponsorships=1&chess=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&sponsorships=false&sponsorships.sections=amount%2C%20sponsorships&sponsorships.size=24&chess=false&chess.user=.user.login&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&config.timezone=Asia%2FShanghai)
