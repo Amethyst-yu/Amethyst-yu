@@ -1,16 +1,4 @@
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: repository
-  filename: metrics.repository.svg
-  token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
-  user: lowlighter
-  repo: metrics
-  plugin_lines: yes
-  plugin_followup: yes
-  plugin_projects: yes
-  plugin_projects_repositories: lowlighter/metrics/projects/1
-
+![Metrics](https://metrics.lecoq.io/Amethyst-yu?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <!--
 **Amethyst-yu/Amethyst-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
