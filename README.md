@@ -6,6 +6,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Amethyst-yu&show_icons=true&theme=transparent)
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amethyst-yu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+![]([https://github-readme-stats.vercel.app/api?username=Amethyst-yu&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api/wakatime?username=Amethyst-yu&theme=transparent&hide_border=true&layout=compact&langs_count=22))
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Amethyst-yu/count.svg) visitor,Thank You!     :kissing_heart::kissing_heart:
