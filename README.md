@@ -64,14 +64,4 @@
 </tr>
 </table>
 
-<br/>
-<div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
-
 You are my ! visitor,Thank You!     :kissing_heart::kissing_heart:
