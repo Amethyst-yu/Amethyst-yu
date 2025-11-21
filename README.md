@@ -8,8 +8,8 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <!-- 注意：这里我把 icon_color 和 title_color 改为了更符合 GIS 的深蓝色/蓝绿色调 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amethyst-yu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f81f7&icon_color=2f81f7&text_color=D3D3D3&bg_color=0,0d1117,1f2428" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amethyst-yu&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f81f7&icon_color=2f81f7&text_color=D3D3D3&bg_color=0,0d1117,1f2428&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amethyst-yu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amethyst-yu&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache=cleare" />
 </a>
 
 <br/>
