@@ -1,66 +1,81 @@
-### Hi there 👋!
+### Hi there 👋! I visualize the world with code.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m currently working on **WebGIS Visualization & 3D Mapping**.
+- 🌱 I’m currently learning **WebGL shaders & Remote Sensing Analysis**.
+- 🌍 I love turning complex **Spatial Data** into actionable insights.
 - 📫 How to reach me: 1796587140@qq.com
-  
+
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amethyst-yu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amethyst-yu&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache=cleare" />
+  <!-- 注意：这里我把 icon_color 和 title_color 改为了更符合 GIS 的深蓝色/蓝绿色调 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amethyst-yu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f81f7&icon_color=2f81f7&text_color=D3D3D3&bg_color=0,0d1117,1f2428" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amethyst-yu&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2f81f7&icon_color=2f81f7&text_color=D3D3D3&bg_color=0,0d1117,1f2428&hide=html,css" />
 </a>
 
 <br/>
 
-### My Skill Set
-<table><tr><td valign="top" width="33%">
+### 🗺️ My Geospatial Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
 
-
-#### Frontend
+#### 🌐 Web Mapping (Frontend)
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="typescript" height="50" />
-  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  <!-- 核心前端框架 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+  <br/>
+  <!-- GIS 前端库 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Mapbox-4264fb?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/CesiumJS-C17D11?style=flat-square&logo=cesium&logoColor=white" alt="Cesium" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/OpenLayers-1F6BBA?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="ThreeJS" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-#### Backend
+#### 💾 Spatial Data (Backend)
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+  <!-- 核心后端 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <br/>
+  <!-- 空间数据库 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <br/>
+  <!-- GIS 服务 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/GeoServer-1E2329?style=flat-square&logo=geoserver&logoColor=white" alt="GeoServer" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/GDAL-1C4E80?style=flat-square&logo=gdal&logoColor=white" alt="GDAL" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-#### DevOps
+#### 🛰️ GIS Tools & DevOps
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+  <!-- 桌面 GIS -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/ArcGIS-005494?style=flat-square&logo=esri&logoColor=white" alt="ArcGIS" />
+  <br/>
+  <!-- 运维工具 -->
+  <img style="margin: 5px" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 </td>
 </tr>
 </table>
 
-You are my ! visitor,Thank You!     :kissing_heart::kissing_heart:
+<br/>
+
+<p align="center">
+  You are my <img src="https://profile-counter.glitch.me/AVS1508/count.svg" alt="visitor count" /> visitor, Thank You! 🌍
+</p>
