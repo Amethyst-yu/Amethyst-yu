@@ -77,5 +77,5 @@
 <br/>
 
 <p align="center">
-  You are my <img src="https://profile-counter.glitch.me/AVS1508/count.svg" alt="visitor count" /> visitor, Thank You! 🌍
+  You are my visitor, Thank You! 🌍
 </p>
